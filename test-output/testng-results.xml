@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="156" started-at="2016-08-26T05:37:12Z" finished-at="2016-08-26T05:37:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="156" started-at="2016-08-26T05:37:12Z" finished-at="2016-08-26T05:37:12Z">
+      <class name="com.stockacc.master.Exampleng">
+        <test-method status="PASS" signature="xyz()[pri:1, instance:com.stockacc.master.Exampleng@1fc1cb1]" name="xyz" duration-ms="47" started-at="2016-08-26T11:07:12Z" finished-at="2016-08-26T11:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyz -->
+        <test-method status="PASS" signature="pqr()[pri:2, instance:com.stockacc.master.Exampleng@1fc1cb1]" name="pqr" duration-ms="0" started-at="2016-08-26T11:07:12Z" finished-at="2016-08-26T11:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pqr -->
+        <test-method status="PASS" signature="abc()[pri:3, instance:com.stockacc.master.Exampleng@1fc1cb1]" name="abc" duration-ms="15" started-at="2016-08-26T11:07:12Z" finished-at="2016-08-26T11:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- com.stockacc.master.Exampleng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
